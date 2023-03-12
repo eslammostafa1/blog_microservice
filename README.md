@@ -24,3 +24,5 @@ npm start
 5- moderation service 
 npm install 
 npm start 
+
+![blog-diagram](https://user-images.githubusercontent.com/54115313/224541864-a0ee38dc-64c1-45a9-8b4c-b0e93f0108c9.png)
